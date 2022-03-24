@@ -6,4 +6,4 @@ Metaplex NFT Candy Machine v2: `cndy3Z4yapfJBmL3ShUp5exZKqR3z33thTzeNMm2gRZ`
 
 How could they make such a FLEX & UNIQUE address?
 
-Let's make your own special address
+Let's make another special addresses!
