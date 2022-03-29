@@ -7,3 +7,5 @@ Metaplex NFT Candy Machine v2 (Solana): `cndy3Z4yapfJBmL3ShUp5exZKqR3z33thTzeNMm
 How could they make such a FLEX & UNIQUE address?
 
 Let's make another special addresses!
+
+(This project is in progress... very slow or impossible to find...)
